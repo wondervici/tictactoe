@@ -1,2 +1,2 @@
 # tictactoe
-Game
+Tictactoe game in android.
